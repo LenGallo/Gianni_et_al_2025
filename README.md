@@ -11,6 +11,10 @@
 
 Citation: G. M. Gianni, L. Gallo, J. Likerman, A. Echaurren, C. Gianni, C. Faccenna. Slab underthrusting is the primary control on flat slab size. Submitted Sciences Advances.
 
+
+Available at: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guidogianni/Gianni_et_al_2025/HEAD)
+
+
 ## Overview 
 
 In this project, we present an approach that integrates the calculation of trench and flat-slab hinge kinematics, along with flat-slab size, across both active and extinct flat slab events to assess flat subduction propagation mechanisms (i.e., forward and backward modes). To achieve this, we analyzed well-resolved absolute plate motion models, which were compared with a global subduction geometry model (Slab2.0, along with regional geophysical surveys) and space-time magmatic patterns, providing insights into the extent of both active and ancient flat slabs. 
